@@ -19,8 +19,8 @@ See [`Weekly report.docx`] for a full day-by-day breakdown.
 ## 🚀 Quick Start
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/multi-agent-coding-ai.git
-   cd multi-agent-coding-ai
+   git clone https://github.com/SezhiyanP4597/Agentic_.git
+   cd Agentic_
 2. **Open in Colab**
 
   -Upload notebook.ipynb to Google Colab
